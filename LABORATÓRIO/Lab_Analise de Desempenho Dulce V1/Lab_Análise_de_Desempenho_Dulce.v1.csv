@@ -1,0 +1,4 @@
+Id,Concurso,Previsão 1,Desempenho 1,Previsão 2,Desempenho 2,Previsão 3,Desempenho 3,Previsão 4,Desempenho 4,Previsão 5,Desempenho 5,Duração,Erro Médio,Epochs
+20240713070209.1.Lab.Dulce.v1,5883,596,,5115,,4251,,1630,,7989,,04:47:51,92.81,
+20240719062119.1.Lab.Dulce.v1,5885,5432,,5146,,5871,,451,,6440,,06:33:05,87.39,
+20240731153620.1.Dulce.LAB_V.1.2,5888,4466,,6944,,6318,,5350,,4608,,02:13:43,706.48,

@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="132353ff-0177-42fd-8cb8-eb8699822fa3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="400c55c0-6aed-471f-a81c-2410a8713964" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2chqXwHlbMo2W29zyqCWPjJO1Uf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for TESTE.TestAtualizadorDados.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in 09.B.TensorFlow_Rede_Neural_02.a.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in TESTE.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.A.ENTRADA_DE_DADOS.1.0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.A.ENTRADA_DE_DADOS.1.0_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.A.ENTRADA_DE_DADOS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.Analise_Exploratoria_de_dezena_00A99_MC_CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.Analise_Exploratoria_de_dezena_CSV (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.Analise_Exploratoria_de_dezena_CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.Analise_Exploratoria_de_dezena_MC_CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.B.ENTRADA_DE_DADOS.1.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.B.ENTRADA_DE_DADOS.1.1_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.B.ENTRADA_DE_DADOS_a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.ENTRADA_DE_DADOS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.ENTRADA_DE_DADOS_a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.Entrada_de_Dados.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.Entrada_de_Dados_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.Entrada_de_Dados_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.Entrada_de_Dados_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.Entrada_de_Dados_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.Entrada_de_Dados_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.Entrada_de_Dados_06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.Entrada_de_Dados_07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.Entrada_de_Dados_08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.Entrada_de_Dados_09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.Entrada_de_Dados_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.Entrada_de_Dados_11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.Entrada_de_Dados_12.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.00.LISTA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.Terno de Dezenas_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.Treinamento_Machine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.a.Rede_Neural_Previsão.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.b.Rede_Neural_Previsão.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.c.Rede_Neural_Previsão.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.d.Rede_Neural_Previsão.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00.exportacao_csv_xlsx_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.A.Analise_Exploratoria_de_dezena_CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.A.Analise_Exploratoria_de_dezena_CSV_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.A.Milhar_MC_1ao5 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.A.Milhar_MC_1ao5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.Analise_Exploratoria_de_dezena_00A99_DU_CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.Analise_Exploratoria_de_dezena_00A99_MC_CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.B.0.Contagem_atraso_MC_1ao5_X.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.B.1Contagem_atraso_MC_1ao5_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.B.Analise_Exploratoria_de_dezena_00A99_DU_CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.B.Analise_Exploratoria_de_dezena_00A99_DU_CSV_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.B.Contagem_atraso_MC_1ao5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.C.Contador_de_atrasos_D_U.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.C.Contador_de_atrasos_D_U_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.C.Contagem_atraso_MC_1ao5_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.Contagem_Unidade_Decimal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.ENTRADA_DE_DADOS_Atualização.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.ENTRADA_DE_DADOS_a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.GRUPOS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.Milhar_MC_1ao5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.TREINAMENTO DE IA PARA TERNO DE DEZENAS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.TREINAMENTO DE IA PARA TERNO DE DEZENAS_teste.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.Treinamento_Machine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.a.Analise_MC1º_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.b.Analise_D1º_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.A.Analise_Exploratoria_de_dezena_MC_CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.A.Analise_Exploratoria_de_dezena_MC_CSV_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.A.Dezenas_1ao5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.Analise_Exploratoria_de_dezena_00A99_MC_CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.B.Analise_Exploratoria_de_dezena_00A99_MC_CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.B.Analise_Exploratoria_de_dezena_00A99_MC_CSV_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.C.Contador_de_atrasos_M_C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.C.Contador_de_atrasos_M_C_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.Contador_de_atrasos_D_U.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.Contador_de_atrasos_M_C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.Dezenas_1ao5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.Grafico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.TREINAMENTO DE IA PARA TERNO DE DEZENAS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.TREINAMENTO DE IA PARA TERNO DE DEZENAS_erro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.Treinamento_Machine_fusao_1e2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.Treinamento_Machine_fusao_1e2_turbo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.a.Analise_MC1º_AO_MC5º_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.a.Analise_MC1º_ao_MC5º_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.a.Analise_MC1º_ao_MC5º_Percentual_Separadas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.b.Analise_D1º_ao_D5º_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.b.Analise_D1º_ao_D5º_Percentual_Separadas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.c.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.d.Analise_de_Paridade (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.d.Analise_de_Paridade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.d.Analise_de_Paridade_1ao5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.d.Analise_de_Paridade_a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.e.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.A.Analise_GP1aoGP5_Lista_Percentual_00a99.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.A.Analise_GP1aoGP5_Lista_Percentual_00a99_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.Analise_MC1º_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.B.Analise_GP1_ao_GP5_Percentual_Orden_Crescente_Qtd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.B.Analise_GP1_ao_GP5_Percentual_Orden_Crescente_Qtd_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.C.Analise_GP1_ao_GP5_Grupo_Animal_Qtd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.C.Analise_GP1_ao_GP5_Grupo_Animal_Qtd_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.C.Analise_GP1_ao_GP5_Percentual_Orden_Crescente_Qtd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.D.Analise_GP1_ao_GP5_Grupo_Animal_Qtd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.Entrada_de_Dados_autocompletar_mc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.Grafico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.Treinamento_Machine_fusao_1e2_turbo_Ajustes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.Versao_turbo_2x.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.Versao_turbo_2x_Contador.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.a.Analise_M_C_1ao5_Lista_Percentual_00a99.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.a.Analise_M_C_1ao5_Percentual_00a99.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.analise_mc1º_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.analise_mc1º_total.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.b.Analise_D_U_1ao5_Lista_Percentual_00a99.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.b.Analise_D_U_1ao5_Percentual_Lista_Orden_Crescente.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.b.Analise_D_U_1ao5_Percentual_Orden_Crescente.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.c.Analise_GP1aoGP5_Lista_Percentual_00a99.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.d.Analise_de_Paridade_Lista_Percentual_Geral.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04..executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.A.Analise_de_Paridade_1ao5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.A.Analise_de_Paridade_1ao5_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.Analise_MC1º_AO_MC5º_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.B.Analise_de_Paridade_Lista_Percentual_Geral.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.B.Analise_de_Paridade_Lista_Percentual_Geral_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.C.Analise_GP1_ao_GP5_Percentual_Orden_Crescente_Qtd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.Entrada_de_Dados_autocompletar_PARIDADE_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.Entrada_de_Dados_autocompletar_PARIDADE_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.a.Analise_D1º_AO_D5º_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.a.Analise_MC1º_AO_MC5º_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.a.Analise_M_C_1ao5_Percentual_Orden_Crescente.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.a.Analise_M_C_1ao5_Percentual_Orden_Crescente_Qtd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.analise_mc1º_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.analise_mc1º_margem_percentual_total.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.b.Analise_D_U_1ao5_Percentual_Orden_Crescente_Qtd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.c..executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.c.Analise_GP1_ao_GP5_Percentual_Orden_Crescente_Qtd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.d.Analise_GP1_ao_GP5_Grupo_Animal_Qtd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05..executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.A.Analise_D1º_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.A.Analise_D1º_ao_D5º_Percentual_Separadas_ok.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.Analise_MC1º_AO_MC5º_Percentual_LISTA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.B.Analise_D_U_1ao5_Percentual_Orden_Crescente_Qtd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.B.Analise_D_U_1ao5_Percentual_Orden_Crescente_Qtd_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.B.Analise_D_U_1ao5_Percentual_Orden_Decrescente_Qtd_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.C.Analise_D_U_1ao5_Lista_Percentual_00a99.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.C.Analise_D_U_1ao5_Lista_Percentual_00a99_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.C.Analise_D_U_1ao5_Lista_Percentual_Crescente_00a99_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.D.Analise_D1º_ao_D5º_Percentual_Separadas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.Entrada_de_Dados_autocompletar_IMPAR_PAR.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.Entrada_de_Dados_autocompletar_PAR_IMPAR.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.analise_mc1º_Percentua_01l.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.analise_mc1º_Percentua_de_Amostragem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.analise_mc1º_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.analise_mc1º_Percentual_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06..executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.A.Analise_MC1º_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.A.Analise_MC1º_ao_MC5º_Percentual_Separadas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.A.Analise_MC1º_ao_MC5º_Percentual_Separadas_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.B.Analise_MC1º_ao_MC5º_Percentual_Separadas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.B.Analise_M_C_1ao5_Percentual_Orden_Decrescente_Qtd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.B.Analise_M_C_1ao5_Percentual_Orden_Decrescente_Qtd_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.C.Analise_M_C_1ao5_Lista_Percentual_Crescente_00a99_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.C.Analise_M_C_1ao5_Percentual_Orden_Crescente_Qtd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.D.Analise_M_C_1ao5_Lista_Percentual_00a99.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.Rede_Neural_Previsão.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.analise_mc1º_Percentua_de_Amostragem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.analise_mc1º_Percentua_de_Totalconcursos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.analise_mc1º_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.analise_mc1º_ao_mc5º_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.b.Rede_Neural_Previsão.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.c.Rede_Neural_Previsão.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.d.Rede_Neural_Previsão.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07..executor&quot;: &quot;Run&quot;,
+    &quot;Python.07.A.Milhar_MC_1ao5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07.A.Milhar_MC_1ao5_ok.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07.B.Dezenas_1ao5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07.B.Dezenas_1ao5_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07.TESTE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07.X.Analise_MC1º_AO_MC5º_Percentual_LISTA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07.X.Analise_MC1º_AO_MC5º_Percentual_LISTA_individual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07.X.Analise_MC1º_AO_MC5º_Percentual_LISTA_individual_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07.XX.Analise_MC1º_AO_MC5º_Percentual_LISTA_CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07.XX.Analise_MC1º_AO_MC5º_Percentual_LISTA_CSV_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07.analise_mc1º_ao_mc5º_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07.analise_mc1º_mc5º_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07.scikit-learn_Contador.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07.teste.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08..executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.A.PyTorch_Deep_Learn_00.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.B.PyTorch_Deep_Learn_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.C.PyTorch_Deep_Learn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.D.Dulce.v1.1py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.D.PyTorch_Deep_Learn_TURBO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.IA.Dulce.v1.0.1a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.IA.Dulce.v1.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.IA.Dulce.v1.1a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.IA_Lab.Dulce.v1.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.IA_Prod.Dulce.v1.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.IA_Prod.Dulce.v2.0.1.ajuste.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.IA_Prod.Dulce.v2.0.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.IA_Prod.Dulce.v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.scikit-learn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.scikit-learn_Contador.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09..executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.A.Dulce.v1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.A.TensorFlow_Rede_Neural_01.00.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.A.TensorFlow_Rede_Neural_01.B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.A.TensorFlow_Rede_Neural_01.C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.A.TensorFlow_Rede_Neural_01.D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.A.TensorFlow_Rede_Neural_01.a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.A.TensorFlow_Rede_Neural_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.A.TensorFlow_Rede_Neural_01_tempo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.Analise_M_C_1ao5_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.Analise_M_C_1ao5_Percentual_Orden_Crescente.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.B.TensorFlow_Rede_Neural_02.00.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.B.TensorFlow_Rede_Neural_02.a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.B.TensorFlow_Rede_Neural_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.B.TensorFlow_Rede_Neural_02_tempo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.C.MILHAR.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.D.Terno de Dezenas_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.E.GRUPOS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.IA.Dulce.v1.0.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.IA.Dulce.v1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.IA_Prod.Dulce.v1.TESTE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.IA_Prod.Dulce.v1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.IA_Prod.Dulce.v1_AJUSTE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1-3 dio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.A.Contagem_Unidade_Decimal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.Analise_D_U_1AO5_Percentual_Orden_Crescente.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.Analise_D_U_Percentual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.B.Grafico.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.10.C.Grafico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.A.Gerador_de_base_Lista_1ao5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.A.Gerador_de_base_Lista_1ao5_Atualizar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.A.LISTA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.B.Gerador de Milhar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.A.Dulce.v1.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.ANALISE DE CASAS DECIMAIS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.ANALISE DE CASAS DECIMAIS_OK.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.ANALISE DE CASAS DECIMAIS_atualizar_csv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.IA.Dulce.v1.2A.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.IA.Dulce.v1.2B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.IA.Dulce.v1.2_AJUSTE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.IA_Prod.Dulce.v3.0.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.IA_Prod.Dulce.v3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.IA_lab.Dulce.v3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3 dio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5..executor&quot;: &quot;Run&quot;,
+    &quot;Python.A.Analise_Exploratoria_de_dezena.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ANALISE DE CASAS DECIMAIS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ANALISE DE CASAS DECIMAIS_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ANALISE DE UNIDADES.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ANÁLISE CASA DECIMAL.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Analise_MC1º_AO_MC5º_Percentual_LISTA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Analise_MC1º_AO_MC5º_Percentual_LISTA_CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Análise expliratória.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Análise exploratória_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Análise exploratória_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Análise exploratória_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Análise exploratória_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Análise exploratória_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Análise exploratória_06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Análise exploratória_07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Análise exploratória_08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DATAFRAME.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dados.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dezenas_1ao5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EDA_Analise_exploratoria_dos_Dados.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ENTRADA_DE_DADOS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ENTRADA_DE_DADOS_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ENTRADA_DE_DADOS_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ENTRADA_DE_DADOS_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ENTRADA_DE_DADOS_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ENTRADA_DE_DADOS_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ENTRADA_DE_DADOS_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ENVIANDO PREVISÃO EMAIL.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ENVIANDO PREVISÃO EMAIL_ajuste.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Entrada_de_Dados.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Entrada_de_Dados_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Entrada_de_Dados_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Entrada_de_Dados_autocompletar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Entrada_de_Dados_autocompletar_4digitospy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Entrada_de_Dados_autocompletar_IMPAR_PAR.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Entrada_de_Dados_autocompletar_Mc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Entrada_de_Dados_autocompletar_PARIDADE_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Entrada_de_Dados_autocompletar_diasemana_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Entrada_de_Dados_autocompletar_lista4digitos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Entrada_de_Dados_autocompletar_mc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FINAL.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GRUPOS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Gerador de Milhar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Gerador_de_Previsoes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Gerador_de_Previsoes_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Grafico_Concurso.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Grafico_Geral.executor&quot;: &quot;Run&quot;,
+    &quot;Python.I.a.01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.I.a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IA_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IA_01_PRINCIPAL.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IA_01_PRINCIPAL_a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IA_02_PRINCIPAL.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IA_03.A_em_teste_ajustado.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IA_Lab.Dulce.v1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IA_scikit-learn_CASAS_DECIMAIS_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ia terno de dezena.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LISTA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_v1_validacao_cruzada_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MILHAR_MC_1ao5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Milhares_Não_Sorteadas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Milhares_nao_sorteadas_geral.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Milhares_não_sorteadas_1ao5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Milhares_não_sorteadas_1ao5_menu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Milhares_não_sorteadas_1ao5_menu_ajuste_zero.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Milhares_não_sorteadas_Menu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Milhares_não_sorteadas_Menu_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Modelo ia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Modelo ia_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Modelo ia_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Modelo ia_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Organizacao_Lista_1ao5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PERCENTUAL DE DEZENAS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PREVISÃO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PREVISÃO_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PyTorch_Deep_Learn_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Repetições_de_Milhares.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TERNO DE DEZENAS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TESTE (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.TESTE 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TESTE 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TESTE 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TESTE 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TESTE DE EMAIL 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TESTE DE EMAIL DETALHADO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TESTE DE ENVIO DE EMAIL.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TESTE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TESTE01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TESTE02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TESTE03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TESTE__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TESTE_x.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Terno de Dezenas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Terno de Dezenas_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teste Lista única.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Treinamento_Machine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Treinamento_Machine_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Treinamento_Machine_fusao_1e2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.X.executor&quot;: &quot;Run&quot;,
+    &quot;Python.X00.executor&quot;: &quot;Run&quot;,
+    &quot;Python.X000.executor&quot;: &quot;Run&quot;,
+    &quot;Python.X1.ATRASO_DEZENA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.X1.Atraso_Dezena.executor&quot;: &quot;Run&quot;,
+    &quot;Python.X1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.X2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.X3.PLOT.executor&quot;: &quot;Run&quot;,
+    &quot;Python.X3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.X4.PLOT.executor&quot;: &quot;Run&quot;,
+    &quot;Python.X5.PLOT.executor&quot;: &quot;Run&quot;,
+    &quot;Python.X6.Rede_Neural_Previsão.executor&quot;: &quot;Run&quot;,
+    &quot;Python.X6.Rede_Neural_Previsão_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.X7.scikit-learn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XX.executor&quot;: &quot;Run&quot;,
+    &quot;Python.adicao_de_dados.executor&quot;: &quot;Run&quot;,
+    &quot;Python.adicao_de_dados01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.adicao_de_dados_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.analise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.analise_mc1º_total.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atualização _de_csv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.base_de_dados.executor&quot;: &quot;Run&quot;,
+    &quot;Python.base_de_dados_csv_PERFEITO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cabeçalho_Dulce.00.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cabeçalho_Dulce.01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.consulta previsao2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.consulta previsão.executor&quot;: &quot;Run&quot;,
+    &quot;Python.copia_codigo_fonte.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.frita_processador.executor&quot;: &quot;Run&quot;,
+    &quot;Python.frita_processador_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.frita_processador_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fusão 02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fusão.executor&quot;: &quot;Run&quot;,
+    &quot;Python.iA_03_cópia oculta_email.executor&quot;: &quot;Run&quot;,
+    &quot;Python.indices.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_teste_dulcev1.0.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_v1_validação_cruzada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leitor_csv_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leitor_xlsx_csv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leitor_xlsx_csv_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leitor_xlsx_csv_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leitura_csv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leitura_csv_00.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leitura_csv_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leitura_csv_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leitura_csv_02_funcionou_erro_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leitura_csv_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leitura_csv_03_perfeito.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leitura_csv_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leitura_csv_perfeito.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leitura_csv_perfeito_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leitura_csv_perfeito_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leitura_csv_perfeito_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leitura_csv_perfeito_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.selenium.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sellenium.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teset02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste 00.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste 01.a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste 01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste 02 v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste 02 v3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste 02 validação cruzada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste 02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste 03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste 04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste 05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste 4.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste v1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste v2_testar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste v3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste_consulta_previsões.executor&quot;: &quot;Run&quot;,
+    &quot;Python.web_crawler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.x.executor&quot;: &quot;Run&quot;,
+    &quot;Python.x1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.x1_teste.executor&quot;: &quot;Run&quot;,
+    &quot;Python.x2.a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.x2.b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.x2.c.executor&quot;: &quot;Run&quot;,
+    &quot;Python.x2.erro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.x2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.x3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.x4_turbo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.x5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.x5_turbo_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.x_selenium.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xx.executor&quot;: &quot;Run&quot;,
+    &quot;Python.y.Analise_Exploratoria_de_dezena.executor&quot;: &quot;Run&quot;,
+    &quot;Python.y.Analise_Exploratoria_de_dezena_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.y.Analise_Exploratoria_de_dezena_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.y.Analise_Exploratoria_de_dezena_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.y.Analise_Exploratoria_de_dezena_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.y.Analise_Exploratoria_de_dezena_06_CSV (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.y.Analise_Exploratoria_de_dezena_06_CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.y.Analise_Exploratoria_de_dezena_07_CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.y.Analise_Exploratoria_de_dezena_08.A_CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.y.Analise_Exploratoria_de_dezena_08_CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.y.Analise_Exploratoria_de_dezena_09_CSV.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/henrique/projeto_dio.me&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Produção/04 Analise Exploratoria Por Unidade/IA 03" />
+      <recent name="$PROJECT_DIR$/Produção/01.ANALISE EXPLORATORIA" />
+      <recent name="$PROJECT_DIR$/Produção" />
+      <recent name="$PROJECT_DIR$/LABORATÓRIO" />
+      <recent name="$PROJECT_DIR$/Cabeçalho" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.02.B.Analise_Exploratoria_de_dezena_00A99_MC_CSV_OK">
+    <configuration name="00.B.ENTRADA_DE_DADOS.1.1_OK" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepMind_Analytica" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Produção/00.ENTRADA DE DADOS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Produção/00.ENTRADA DE DADOS/00.B.ENTRADA_DE_DADOS.1.1_OK.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01.B.Analise_Exploratoria_de_dezena_00A99_DU_CSV_OK" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepMind_Analytica" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Produção/01.ANALISE EXPLORATORIA/Análise de Atraso de Dezena &quot;D-U&quot;" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Produção/01.ANALISE EXPLORATORIA/Análise de Atraso de Dezena &quot;D-U&quot;/01.B.Analise_Exploratoria_de_dezena_00A99_DU_CSV_OK.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02.B.Analise_Exploratoria_de_dezena_00A99_MC_CSV_OK" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepMind_Analytica" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Produção/01.ANALISE EXPLORATORIA/Análise de Atraso de Dezena  &quot;M-C&quot;" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Produção/01.ANALISE EXPLORATORIA/Análise de Atraso de Dezena  &quot;M-C&quot;/02.B.Analise_Exploratoria_de_dezena_00A99_MC_CSV_OK.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11.A.Gerador_de_base_Lista_1ao5_Atualizar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepMind_Analytica" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Produção/03.LISTA M C D U &quot;Contador Unidades&quot;/Gerador de Milhar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Produção/03.LISTA M C D U &quot;Contador Unidades&quot;/Gerador de Milhar/11.A.Gerador_de_base_Lista_1ao5_Atualizar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12.ANALISE DE CASAS DECIMAIS_atualizar_csv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepMind_Analytica" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Produção/04 Analise Exploratoria Por Unidade" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Produção/04 Analise Exploratoria Por Unidade/12.ANALISE DE CASAS DECIMAIS_atualizar_csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="adicao_de_dados" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DeepMind_Analytica" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adicao_de_dados.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.02.B.Analise_Exploratoria_de_dezena_00A99_MC_CSV_OK" />
+        <item itemvalue="Python.01.B.Analise_Exploratoria_de_dezena_00A99_DU_CSV_OK" />
+        <item itemvalue="Python.12.ANALISE DE CASAS DECIMAIS_atualizar_csv" />
+        <item itemvalue="Python.11.A.Gerador_de_base_Lista_1ao5_Atualizar" />
+        <item itemvalue="Python.00.B.ENTRADA_DE_DADOS.1.1_OK" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="132353ff-0177-42fd-8cb8-eb8699822fa3" name="Changes" comment="" />
+      <created>1708574201098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708574201098</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
